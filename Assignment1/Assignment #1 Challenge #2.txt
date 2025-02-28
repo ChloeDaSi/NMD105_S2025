@@ -1,0 +1,60 @@
+let ellipseX = 40
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(112, 128, 144);
+  //first row
+  stroke(10000)
+  fill( 225, 225, 20)
+  ellipse(1+ellipseX,0+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(81+ellipseX,0+ellipseX, 80,80)
+  ellipse(160+ellipseX,0+ellipseX, 80,80)
+   fill( 225, 225, 20)
+  ellipse(240+ellipseX,0+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(320+ellipseX,0+ellipseX, 80,80)
+  //second row
+  fill( 225, 225, 20)
+    ellipse(1+ellipseX,80+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(81+ellipseX,80+ellipseX, 80,80)
+  fill( 225, 225, 20)
+  ellipse(160+ellipseX,80+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(240+ellipseX,80+ellipseX, 80,80)
+  ellipse(320+ellipseX,80+ellipseX, 80,80)
+  //third row
+  fill( 225, 225, 20)
+   ellipse(1+ellipseX,160+ellipseX, 80,80)
+  fill(25,30,40)
+  fill( 225, 225, 20)
+  ellipse(81+ellipseX,160+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(160+ellipseX,160+ellipseX, 80,80)
+  ellipse(240+ellipseX,160+ellipseX, 80,80)
+  ellipse(320+ellipseX,160+ellipseX, 80,80)
+  //fourth row
+  fill( 225, 225, 20)
+  ellipse(1+ellipseX,240+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(81+ellipseX,240+ellipseX, 80,80)
+  fill( 225, 225, 20)
+  ellipse(160+ellipseX,240+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(240+ellipseX,240+ellipseX, 80,80)
+  ellipse(320+ellipseX,240+ellipseX, 80,80)
+  //fifth row
+  fill( 225, 225, 20)
+  ellipse(1+ellipseX,320+ellipseX, 80,80)
+  fill(25,30,40)
+  ellipse(81+ellipseX,320+ellipseX, 80,80)
+  ellipse(160+ellipseX,320+ellipseX, 80,80)
+   fill( 225, 225, 20)
+  ellipse(240+ellipseX,320+ellipseX, 80,80)
+    fill(25,30,40)
+  ellipse(320+ellipseX,320+ellipseX, 80,80)
+  
+}
