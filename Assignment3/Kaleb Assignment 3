@@ -1,0 +1,20 @@
+This one was hard to get the crumb to fall, but with help from others I was able to get the proper variables to work. making the variables was the easy part. but getting them all to cooperate in a sketch was difficult
+https://editor.p5js.org/KalebGrunhuvd/sketches/bgS6gzVfT
+
+
+
+For this sketch the main thing I added was the mouseIsPressed function that made the ghost turn a tan color. and the ability to make the crumb fall at random
+https://editor.p5js.org/KalebGrunhuvd/sketches/55aSf2Xvf
+
+
+
+The main difficulty I had with this one was making the seed fall on a loop at a constant speed. with a little help from my peers I was able to create a function that allowed another crumb to fall when the pre-existing one had passed a certain point
+https://editor.p5js.org/KalebGrunhuvd/sketches/MOLNomWOZ
+
+
+This one wasn't all that different from the others.. the only difference was that mouseIsPressd was N/A as the ghost was now tan no matter what
+https://editor.p5js.org/KalebGrunhuvd/sketches/nTj4Dmikn
+
+
+I had to do a lot of rearanging and looking things up to make this game a reality. the object is just to catch the crumb with the ghost. and when a player does that the ghost turns tan. showing the player that they had caught the crumb
+https://editor.p5js.org/KalebGrunhuvd/sketches/Bx-pufylb
