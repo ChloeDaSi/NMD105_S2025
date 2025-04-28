@@ -1,0 +1,39 @@
+﻿Assignment 1
+
+
+1. Initials Squares/Grid 
+https://editor.p5js.org/mytien.pham/sketches/LgTu_l2A2 
+2. Initials Circles
+https://editor.p5js.org/mytien.pham/sketches/KKqvUJ5yS 
+3. Initials Gradient
+p5.js Web Editor | gradient squares 
+4. Initials W Gradient Variable
+https://editor.p5js.org/mytien.pham/sketches/hrHnxj7cQ redo 
+
+
+Assignment 2
+1. https://editor.p5js.org/mytien.pham/sketches/nzU-Tyx-m
+2. https://editor.p5js.org/mytien.pham/sketches/IAubO5pkb 
+3. https://editor.p5js.org/mytien.pham/sketches/15WsY_nIy 
+4. https://editor.p5js.org/mytien.pham/sketches/Jvt3rRT6b 
+Assignment 1 redo https://editor.p5js.org/mytien.pham/sketches/hrHnxj7cQ 
+
+
+Assignment 3
+1. p5.js Web Editor | carrot catching - 1
+2. p5.js Web Editor | carrot catching - 2
+3. p5.js Web Editor | carrot catching - 3
+4. p5.js Web Editor | carrot catching - 4
+
+
+Assignment 4
+1. https://editor.p5js.org/mytien.pham/sketches/B4RsEm3O1 
+2. https://editor.p5js.org/mytien.pham/sketches/-EStdIcre 
+3. https://editor.p5js.org/mytien.pham/sketches/vpmJpAdTj 
+
+
+Assignment 5
+1. p5.js Web Editor | tien assignment 5.1 
+2. https://editor.p5js.org/mytien.pham/sketches/lh6vjEyHh
+3.  https://editor.p5js.org/mytien.pham/sketches/R7nS4VqnR 
+4. https://editor.p5js.org/mytien.pham/sketches/1MAgMok0I
